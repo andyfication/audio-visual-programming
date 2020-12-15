@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Ranchers';
+  src: url('../fonts/Ranchers-Regular.ttf');
+}
+
+body {
+  margin: 0;
+}
+
+#page-canvas {
+  background: #303030;
+}
